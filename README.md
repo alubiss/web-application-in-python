@@ -1,7 +1,7 @@
 # Web application in python
 
 
-Project prepared as part of the ['Python and SQL' subject](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=2400-DS1SQL) on my Master Studies.
+Project prepared as part of the ['Python and SQL'](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=2400-DS1SQL) subject on my Master Studies.
 
 
 The goal of the project was to prepare a web application based on the use of various data sources.
